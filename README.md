@@ -1,7 +1,7 @@
 # ExchangeServer
 Resources for use with Microsoft Exchange Online &amp; On Premises PowerShell
 
-## [Get-ExchangeLog.ps1](Get-ExchangeLog.ps1)
+## [Get-ExchangeLog.ps1](Get-ExchangeLog)
 
 2023-02-07
 ian-mor
