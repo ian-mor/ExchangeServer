@@ -9,7 +9,10 @@ ian-mor
 Simple function to easily import Exchange Server logs for analysis.  The function skips all comment rows and uses the field data defined in the comments to dynamically assign column names.
 
 ![Example log import](Get-ExchangeLog/Images/05_02_Imported_Log_Data.png)
-    
+
+## About Me
+Find out more at [ianmorozoff.com](https://ianmorozoff.com/)
+
 ---
 
 A script a day keeps the work away!  ~ian-mor
